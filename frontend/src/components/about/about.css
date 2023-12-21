@@ -1,0 +1,11 @@
+.aboutPage{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    align-items: center;
+}
+.aboutText{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
